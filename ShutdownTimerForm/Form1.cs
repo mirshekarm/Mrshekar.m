@@ -51,7 +51,7 @@ namespace ShutdownTimerForm
         //Button Start Method
         private void button1_Click(object sender, EventArgs e)
         {
-            //comment
+            
             btnStart.Enabled = false;
             txtStatus.Text = "Running";
 

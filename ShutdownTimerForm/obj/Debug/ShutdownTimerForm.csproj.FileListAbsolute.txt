@@ -18,3 +18,13 @@ G:\Projects\c#\ShutdownTimerForm\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.e
 G:\Projects\c#\ShutdownTimerForm\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.pdb
 G:\Projects\c#\ShutdownTimerForm\ShutdownTimerForm\bin\Debug\ShutdownTimerForm.pdb
 G:\Projects\c#\ShutdownTimerForm\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.csprojAssemblyReference.cache
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\bin\Debug\ShutdownTimerForm.exe.config
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\bin\Debug\ShutdownTimerForm.exe
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\bin\Debug\ShutdownTimerForm.pdb
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.csprojAssemblyReference.cache
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.Form1.resources
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.Properties.Resources.resources
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.csproj.GenerateResource.cache
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.csproj.CoreCompileInputs.cache
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.exe
+C:\Users\Morteza.m\Source\Repos\Mrshekar.m\ShutdownTimerForm\obj\Debug\ShutdownTimerForm.pdb
